@@ -68,7 +68,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://fullstack-project-frontend-eight.vercel.app/",
+    "https://fullstack-project-frontend-eight.vercel.app",
 ]
 
 
